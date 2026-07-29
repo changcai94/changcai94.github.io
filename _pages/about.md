@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About me
+title: about
 permalink: /
 subtitle: >
   <p>Research Associate, Department of Epidemiology and Biostatistics, Imperial College London</p>
