@@ -3,13 +3,11 @@ layout: about
 title: About me
 permalink: /
 subtitle: >
-  <p>Research Associate</p> 
-  <p>Department of Epidemiology and Biostatistics</p>
-  <p>Imperial College London</p>
+  <p>Research Associate, Department of Epidemiology and Biostatistics, Imperial College London</p>
   <p>Email: <a href='mailto:cc2420@ic.ac.uk'> c.cai20@ic.ac.uk </a>. </p>
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
