@@ -11,7 +11,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Chang Cai 蔡倡</p> 
     <p>School of Public Health</p> 
     <p>White City Campus,</p> <p>W12 0BZ</p>
 
