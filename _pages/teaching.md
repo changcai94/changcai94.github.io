@@ -34,3 +34,4 @@ calendar: false
 - Introduction to Statistical Thinking and Data Analysis, Oral presentation, 2023 – 2024
 - Introduction to Statistical Thinking and Data Analysis, Examination, 2021 – 2022
 
+chang is making changes now via VS studio. 
