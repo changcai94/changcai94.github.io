@@ -2,12 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here is a growing collection of projects that I work/collaborate on.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
+test if this would show on the page or not. 
 
 <!-- pages/projects.md -->
 <div class="projects">
