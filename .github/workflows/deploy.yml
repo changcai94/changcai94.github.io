@@ -99,6 +99,20 @@ jobs:
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
+      # ADDED by Dennis to deal with bibliography images plugin
+      - name: Commit and Push Downloaded Bibliography Images 📸
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Check if there are new images inside the folder
+          if [ -d "assets/img/publication_preview" ] && [ -n "$(git status --porcelain assets/img/publication_preview)" ]; then
+            git add assets/img/publication_preview/
+            git commit -m "Automated Sync: Downloaded bibliography preview images [skip ci]"
+            git push origin main
+          else
+            echo "No new preview images to commit."
+          fi
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
