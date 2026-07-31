@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"Environment Epi":
+  color:"#659538"
+
+"Social Epi":
+  color:"#D4A373"
+
+"Health Policy":
+  color: "#9966cc"
+
+"Primary care":
+  color: "#5d8aa8"
