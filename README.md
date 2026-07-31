@@ -2,4 +2,4 @@
 
 Welcome to my personal page.
 
-I built this page using [al-folio](https://github.com/alshedivat/al-folio).
+I am working on the page so more is coming. 
