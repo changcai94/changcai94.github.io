@@ -27,7 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-In case you come across this page by accidence, I am still building up the page. Meanwhile, you can find me [here](https://profiles.imperial.ac.uk/c.cai20). 
+In case you come across this page by accident, I am still building up the page. Meanwhile, you can find me [here](https://profiles.imperial.ac.uk/c.cai20). 
 
 I work as a Research Associate at the [Small Area Health Statistics Unit](https://www.imperial.ac.uk/school-public-health/epidemiology-and-biostatistics/small-area-health-statistics-unit/) in the Department of Epidemiology and Biostatistics at Imperial College London. My project is to evaluate the health impact of London's Ultra Low Emission Zone on children and young people with asthma. I am funded by the MRC Centre for Environment and Health and NIHR Health Protection Research Units in Environmental Exposures and Health.
 
