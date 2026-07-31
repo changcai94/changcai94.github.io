@@ -1,4 +1,4 @@
-**Hello, world!** Welcome to my personal page. 
+**Hello, world!** Welcome to my personal page.
 
 <div align="center">
 
