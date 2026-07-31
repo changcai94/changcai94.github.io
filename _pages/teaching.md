@@ -11,7 +11,8 @@ calendar: false
 ## Supervision
 - 2026, Summer project
   1. Mutabchi Nabaz, Year 4 BSc Global Health, Imperial College London                      
-  2. Vito Wong, Year 4 BSc Global Health, Imperial College London                                                
+  2. Vito Wong, Year 4 BSc Global Health, Imperial College London
+                                                 
 ## Teaching assistance
 - Advanced regression (2023 – 2024)
   - MSc Health Data Analytics and Machine Learning, Imperial College London
