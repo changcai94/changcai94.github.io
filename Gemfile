@@ -27,9 +27,6 @@ group :jekyll_plugins do
 
     gem 'classifier-reborn'  # used for content categorization during the build
 
-    # Add these two lines for the bibliography image downloader, added by Chang
-    gem "bibtex-ruby"
-    gem "nokogiri"
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
