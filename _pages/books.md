@@ -37,10 +37,11 @@ collection: books
   1. 
 
 ## Podcasts  
-\
-\
+
+
 
 ## Books
+
 1. Causal Inference: the Mixtape by Scott Cunningham (straightforward, with practice guidance). He also has a [personal page](https://causalinf.substack.com/) with loads of resouces on causal inference. 
 
 
