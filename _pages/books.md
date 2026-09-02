@@ -2,12 +2,29 @@
 layout: book-shelf
 title: bookshelf
 permalink: /books/
-nav: false
+nav: true
 collection: books
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
->
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+> I've met amazing people in person and online who have been true inspiration for me. To pass on their kindness, I thought it might be helpful to document my own jounery, and perhaps someone else may find it useful.
+> Here is a collection of *trainings*, *books*, and *podcast* that I have attended, read, and listened to. I have grouped them by themes and add a bit of personal notes on my experience. Tranings are mostly related to academic research, but books and podcasts can go beyond that.
 
-## Books that I am reading, have read, or will read
+# Trainings that I have attended
+
+- **Statisic**
+  1. 
+- **Reproducible research**
+  1. 
+- **Environment-related**
+  1. 
+  
+## Books that I have read
+
+- **Environment**
+  1. 
+- **Statistics**
+  1. 
+- **SocialScience**
+  1.
+
+## Podcasts that I have listened to or am listening to
