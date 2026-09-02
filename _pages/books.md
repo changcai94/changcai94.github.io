@@ -3,6 +3,7 @@ layout: book-shelf
 title: Bookshelf
 permalink: /books/
 nav: true
+nav_order: 4
 collection: books
 ---
 
@@ -13,14 +14,17 @@ collection: books
 
 ## Trainings that I have attended
 
-- **Statisics**
-  1. 
+- **Statistics**
+  1.
+  
 - **Reproducible research**
-  1. 
+  1.
+  
 - **Environment**
   1. 
 
 ## Podcasts that I have listened to or am listening to
+
 
 
 ## Books that I have read
