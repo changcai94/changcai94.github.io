@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Wild Girls: How the Outdoors Shaped the Women Who Challenged a Nation
+title: Wild Girls How the Outdoors Shaped the Women Who Challenged a Nation
 author: Tiya Alicia Miles
 cover: # assets/img/book_covers/the_godfather.jpg
 olid: OL50653346M # use Open Library ID to fetch cover (if no `cover` is provided)
