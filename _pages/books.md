@@ -14,10 +14,12 @@ collection: books
 ## Trainings
 
 - **Statistics**
+
   1.
 
   
 - **Machine Learning**
+
   1.Causality and Machine Learning, by Isaac Newton Institute for Mathematical Sciences, Cambridge (in person)
 
   2. Machine Learning, School of Public Health at Imperial College London, London (Audit)
@@ -27,9 +29,11 @@ collection: books
   4. [Machine Learning and Heterogeneous Effects](https://www.mixtapesessions.io/session/ml_het_effects_nov10/), Prof. Brigham Frandsen (online)                                                                                                               
 
 - **Reproducible research**
+  
   1.
   
 - **Environment**
+  
   1. 
 
 ## Podcasts  
@@ -38,4 +42,5 @@ collection: books
 
 ## Books
 1. Causal Inference: the Mixtape by Scott Cunningham (straightforward, with practice guidance). He also has a [personal page](https://causalinf.substack.com/) with loads of resouces on causal inference. 
-\
+
+
