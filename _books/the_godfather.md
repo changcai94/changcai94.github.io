@@ -5,8 +5,8 @@ author: Tiya Alicia Miles
 cover: # assets/img/book_covers/the_godfather.jpg
 olid: OL50653346M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: classics crime historical-fiction mystery novels thriller
-tags: Environment, history, feminist
+categories: Environment History Feminist Non-fiction
+tags: Environment, history, feminist, non-fiction
 buy_link: https://www.amazon.co.uk/Wild-Girls-Outdoors-Shaped-Challenged/dp/1324020873
 date: 2024-08-23
 started: #2024-08-23
