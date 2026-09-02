@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: Bookshelf
+title: Archive # original title is Bookshelf
 permalink: /books/
 nav: true
 nav_order: 4
