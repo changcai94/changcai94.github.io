@@ -11,6 +11,9 @@ collection: books
 >  \
 > Here is a collection of *trainings*, *books*, and *podcast* that I've attended, read, and listened to. I've grouped them by themes and add a bit of personal notes on my experience. Tranings are mostly related to academic research, but books and podcasts can go beyond that.
 
+> [!CAUTION]
+> This page in not completed. 
+
 ## Trainings
 
 **Statistics**
@@ -29,7 +32,7 @@ collection: books
 4. [Machine Learning and Heterogeneous Effects](https://www.mixtapesessions.io/session/ml_het_effects_nov10/), Prof. Brigham Frandsen (online)                                                                                                               
 
 **Reproducible research**
-  
+
 1.
   
 
@@ -39,6 +42,6 @@ collection: books
 
 ## Books
 
-1. Causal Inference: the Mixtape by Scott Cunningham (straightforward, with practice guidance). He also has a [personal page](https://causalinf.substack.com/) with loads of resouces on causal inference. 
+1. Causal Inference: the Mixtape by Scott Cunningham (straightforward, with practice guidance). He also has a [website](https://causalinf.substack.com/) with loads of resouces on causal inference. 
 
 
