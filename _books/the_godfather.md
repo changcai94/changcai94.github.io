@@ -14,7 +14,7 @@ finished: #2024-09-07
 released: #1969
 stars: 5
 goodreads_review: # 6318556633
-status: Environment
+status: Finished
 ---
 
 I came across this book during my trip in Canifornia when looking for some entertaining reads. It was a complete surprise how this book is beautifully written. The author writes about how outdoor environment has played a role in shaping women's independence and vision, through the lense of both icons and underappericiated figures. It is for girls of all races. I found it very engaging to read. 
