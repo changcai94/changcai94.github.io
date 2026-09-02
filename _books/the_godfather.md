@@ -2,11 +2,11 @@
 layout: book-review
 title: Wild Girls
 author: Tiya Alicia Miles
-cover: # assets/img/book_covers/the_godfather.jpg
+cover: assets/img/book_covers/wild_girl.jpg
 olid: OL50653346M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn:  1324020873 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: Environment History Feminist Non-fiction
-tags: Environment, history, feminist, non-fiction
+categories: # Environment History Feminist Non-fiction
+tags: Environment history feminist non-fiction
 buy_link: https://www.amazon.co.uk/Wild-Girls-Outdoors-Shaped-Challenged/dp/1324020873
 date: 2024-08-23
 started: #2024-08-23
