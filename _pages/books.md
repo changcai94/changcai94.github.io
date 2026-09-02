@@ -13,28 +13,25 @@ collection: books
 
 ## Trainings
 
-- **Statistics**
+**Statistics**
 
-  1.
+1.
 
   
-- **Machine Learning**
+**Machine Learning**
 
-  1.Causality and Machine Learning, by Isaac Newton Institute for Mathematical Sciences, Cambridge (in person)
+1. Causality and Machine Learning, by Isaac Newton Institute for Mathematical Sciences, Cambridge (in person)
 
-  2. Machine Learning, School of Public Health at Imperial College London, London (Audit)
+2. Machine Learning, School of Public Health at Imperial College London, London (Audit)
 
-  3. [Machine Learning and Causal Inference](https://www.mixtapesessions.io/session/ml_oct13/), by Prof. Brigham Frandsen (online)     
+3. [Machine Learning and Causal Inference](https://www.mixtapesessions.io/session/ml_oct13/), by Prof. Brigham Frandsen (online)     
 
-  4. [Machine Learning and Heterogeneous Effects](https://www.mixtapesessions.io/session/ml_het_effects_nov10/), Prof. Brigham Frandsen (online)                                                                                                               
+4. [Machine Learning and Heterogeneous Effects](https://www.mixtapesessions.io/session/ml_het_effects_nov10/), Prof. Brigham Frandsen (online)                                                                                                               
 
-- **Reproducible research**
+**Reproducible research**
   
-  1.
+1.
   
-- **Environment**
-  
-  1. 
 
 ## Podcasts  
 
