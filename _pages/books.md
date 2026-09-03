@@ -7,8 +7,6 @@ nav_order: 4
 collection: books
 ---
 
-> I've met amazing people in person and online who have been true inspiration for me. To pass on their kindness, I thought it might be helpful to document my own jounery, and perhaps someone else may find it useful.  
->  \
 > Here is a collection of *trainings*, *books*, and *podcast* that I've attended, read, and listened to. I've grouped them by themes and add a bit of personal notes on my experience. Tranings are mostly related to academic research, but books and podcasts can go beyond that.
 
 > [!CAUTION]
