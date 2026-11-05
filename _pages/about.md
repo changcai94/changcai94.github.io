@@ -3,8 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <p>Research Associate, Department of Epidemiology and Biostatistics, Imperial College London</p>
-  <p>Email: <a href='mailto:cc2420@ic.ac.uk'> c.cai20@ic.ac.uk </a> </p>
+  <p>Research Fellow in Environmental Health, Nuffield Department of Population Health, University of Oxford</p>
+  <p>Email: <a href='mailto:chang.cai@ndph.ox.ac.uk'> chang.cai@ndph.ox.ac.uk </a> </p>
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Research Fellow at the [China Kadooire Biobank group](https://www.ctsu.ox.ac.uk/research/china-kadoorie-biobank) in the [Nuffield Department of Population Health](https://www.ndph.ox.ac.uk/) at the University of Oxford, working with [Dr Peter Chan](https://www.ndph.ox.ac.uk/team/kahung-chan). My role is to study the health impacts of non-optimal temperature. 
+I am a Research Fellow at the [China Kadooire Biobank group](https://www.ctsu.ox.ac.uk/research/china-kadoorie-biobank) in the [Nuffield Department of Population Health](https://www.ndph.ox.ac.uk/) at the University of Oxford, working with [Dr Peter Chan](https://www.ndph.ox.ac.uk/team/kahung-chan). My role is to study the health impacts of non-optimal temperature.I am based at the [Big Data Institute](https://www.bdi.ox.ac.uk/).  
 
 I previously worked as a Research Associate at the [Small Area Health Statistics Unit](https://www.imperial.ac.uk/school-public-health/epidemiology-and-biostatistics/small-area-health-statistics-unit/) in the Department of Epidemiology and Biostatistics at Imperial College London, led by with [Dr Bethan Davies](https://profiles.imperial.ac.uk/bethan.davies06). My project was to evaluate the health impact of London's Ultra Low Emission Zone on children and young people with asthma. I was funded by the MRC Centre for Environment and Health and NIHR Health Protection Research Units in Environmental Exposures and Health.
 
