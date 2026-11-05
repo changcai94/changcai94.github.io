@@ -2,7 +2,7 @@
 layout: book-shelf
 title: Archive # original title is Bookshelf
 permalink: /books/
-nav: true
+nav: false
 nav_order: 4
 collection: books
 ---
