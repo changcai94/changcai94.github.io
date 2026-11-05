@@ -11,8 +11,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>School of Public Health</p> 
-    <p>White City Campus,</p> <p>W12 0BZ</p>
+    <p>The Big Data Institute</p> 
+    <p>Old Road Campus,</p> <p>OX3 7LF</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
