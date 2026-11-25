@@ -13,7 +13,7 @@ horizontal: false
 
 - **Aim**: evaluating the health impacts of London's Ultra Low Emission Zone on Children and Young People.
 - **Publications**
-  1. [Association of vehicle emission charging zones with adult emergency hospital admissions: an interrupted time series analysis of the toxicity charge and Ultra Low Emission Zone in London, UK](10.1016/j.envint.2026.110324)
+  1. [Association of vehicle emission charging zones with adult emergency hospital admissions: an interrupted time series analysis of the toxicity charge and Ultra Low Emission Zone in London, UK](https://doi.org/10.1016/j.envint.2026.110324)
 - **Public engagment blogs**
   1. [Sharing research and lived experiences of London’s Ultra Low Emission Zone (ULEZ)](https://blogs.imperial.ac.uk/sahsu-ppi/2026/03/12/sharing-research-and-lived-experiences-of-londons-ultra-low-emission-zone-ulez/)
   2. [Public Health Impact of Clean Air Zone (PHICAZ)](https://blogs.imperial.ac.uk/sahsu-ppi/2025/04/30/public-health-impact-of-clean-air-zone-phicaz/)
@@ -35,5 +35,5 @@ horizontal: false
 
 - **Aim**: Strengthening China’s rural public health services for hypertension and diabetes care. See [here](https://www.georgeinstitute.org/our-research/research-projects/sapphire-study-strengthening-chinas-rural-public-health-services-for-hypertension-and-diabetes-care) for project details.
 - **Publications**
-    1. [Factors associated with the uptake of national essential public health service package for hypertension and type-2 diabetes management in China’s primary health care system: a mixed-methods study]( 10.1016/j.lanwpc.2022.100664)
-    2. [Primary health care system responses to non-communicable disease prevention and control: a scoping review of national policies in Mainland China since the 2009 health reform](10.1016/j.lanwpc.2022.100390)
+    1. [Factors associated with the uptake of national essential public health service package for hypertension and type-2 diabetes management in China’s primary health care system: a mixed-methods study](https://doi.org/10.1016/j.lanwpc.2022.100664)
+    2. [Primary health care system responses to non-communicable disease prevention and control: a scoping review of national policies in Mainland China since the 2009 health reform](https://doi.org/10.1016/j.lanwpc.2022.100390)
